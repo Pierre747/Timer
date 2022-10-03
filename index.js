@@ -1,5 +1,3 @@
-// Créer la logique de compte à rebours
-
 let totalSeconds;
 let interval;
 
